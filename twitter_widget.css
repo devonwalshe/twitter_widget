@@ -1,0 +1,75 @@
+body{
+  margin:0 auto;
+  font-family:Verdana;
+  font-size:0.8em;
+  color:#666;
+}
+
+a{
+  color:#666;
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
+#tweets{
+  height:200px;
+  width:97.5%;
+}
+
+.tweet-wrapper{
+  min-height: 200px;
+  min-width: 300px;
+  padding:20px 5px 5px 10px; 
+}
+
+a.name-link {
+  margin: 0 auto;
+  text-align:center;
+  margin: 3px 0px;
+  color:#aaa;
+  font-size:0.8em;
+}
+
+.profile-image{
+  border:1px solid #aaa;
+  height:45px;
+  width:45px;
+  box-shadow: 0px 3px 3px #888888;
+  margin: 0 auto;
+  display:block;
+  clear:both;
+  padding:5px 7px 7px 5px;
+  border-radius: 5px;
+}
+
+.status{
+  text-align:center;
+  margin: 3px 0px;
+  
+}
+
+.timestamp{
+  margin: 0 auto;
+  text-align:center;
+  margin: 3px 0px;
+  font-size:0.7em;
+  color:#aaa;
+}
+
+.display-name{
+  text-align:center;
+  margin: 10px 0px 2px 0px;
+  font-size:1.2em;
+  font-weight:600;
+  color:#666;
+}
+
+.twitter-name{
+  margin: 0 auto;
+  text-align:center;
+  margin: 3px 0px;
+  color:#aaa;
+}
